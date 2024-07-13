@@ -10,14 +10,13 @@
   - Base Clock: 2.1 GHz
   - Max Turbo Clock: 4.1 GHz
 - **RAM**: 8GB DDR4
-  - Soldered RAM, non-upgradable
 - **Storage**: 256GB SSD NVMe
 - **GPU**: Intel UHD Graphics
 
 ### Connectivity:
 - **WiFi**: Intel Wireless-AC 9560
   - 802.11ac Wi-Fi
-- **Bluetooth**: 5.0
+- **Bluetooth**: intel bluetooth
 
 ### Ports and Connectivity:
 - **1 x USB 3.2 Gen 1 Type-C**
