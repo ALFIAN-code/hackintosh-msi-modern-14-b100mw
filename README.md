@@ -1,4 +1,4 @@
-### hackintosh monterey - MSI Modern 14 B10NW
+### hackintosh monterey - MSI Modern 14 B10MW
 
 ![iScreen Shoter - 2024071385154280 AM](https://github.com/user-attachments/assets/da8652d7-7a75-4593-b022-cf766f6ecde2)
 
